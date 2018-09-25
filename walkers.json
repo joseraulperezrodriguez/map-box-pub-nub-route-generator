@@ -1,0 +1,27 @@
+[
+	{ 
+	  "name" : "David",
+	  "img": "david"
+	},
+	{
+	  "name" : "Aliya",
+	  "img": "aliya"	
+	},
+	{
+	  "name": "Jessica",
+	  "img": "jessica"
+	},
+	{
+	  "name": "Gonzalo",
+	  "img": "gonzalo"
+	},
+	{
+	  "name": "Raúl",
+	  "img": "raul"
+	},
+	{
+	  "name": "Juko",
+	  "img": "juko"
+	}
+]	
+
